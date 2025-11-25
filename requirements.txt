@@ -1,0 +1,7 @@
+
+requests
+jinja2
+ldap3
+boto3
+fastapi
+uvicorn
